@@ -1,4 +1,4 @@
 # Certificates
 
 ### Simply Cyber - Cybersecurity 101
-[certificate-of-completion-for-cybersecurity-101.pdf](https://github.com/user-attachments/files/17301265/certificate-of-completion-for-cybersecurity-101.pdf)
+![Certificate of Completion for Cybersecurity 101](https://github.com/user-attachments/assets/d37a91d8-633d-4af5-8d85-8b176ddea5ef)
